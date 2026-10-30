@@ -1,0 +1,6 @@
+node_modules/
+*.qfleet.json
+*.pending.json
+*.key
+.env*
+native/target/
